@@ -1,1 +1,4 @@
+opt_in_rules:
+ - all
+ 
 force_unwrapping: error
